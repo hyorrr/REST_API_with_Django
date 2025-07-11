@@ -1,0 +1,9 @@
+# 가상환경 무시
+menv/
+
+# macOS 시스템 파일 무시
+.DS_Store
+
+# __pycache__ 무시
+__pycache__/
+
